@@ -1,0 +1,27 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+.display{
+	display: flex;
+}
+
+.block{
+	box-sizing: border-box;
+	height: 600px;
+	width: 600px;
+	text-align: center;
+	font-family: arial;
+	padding: 3%;
+	font-size: 25px;
+}
+
+h3 {
+	font-weight: 600
+}
+
+p {
+	font-weight: 600;
+	color: red
+}
